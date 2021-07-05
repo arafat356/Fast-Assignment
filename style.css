@@ -2,6 +2,7 @@
 body{
     font-family: "Otomanopee One", sans-serif;
 background-color: aqua;
+margin: none;
 }
 h1{
     font-size: 50px;
@@ -66,9 +67,17 @@ font-weight: bolder
 .h2-color{
     color: darkgreen;
 }
+footer p{
+    text-align: center;
+    color: darkgreen;
+    background-color: black;
+    padding: 40px;
+  
+}
 
-
-
+.last-color{
+    color: darkorange;
+}
 
 
 

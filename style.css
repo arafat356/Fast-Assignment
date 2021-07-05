@@ -10,6 +10,10 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
+}
+.this-is{
+    background-image: url(images/Frame\ 58.jpg)
 }
 .half-width{
     width: 50%;
@@ -26,5 +30,13 @@ section{
     padding: 10px 20px;
 border-radius: 5px;
 font-weight: bolder;
+}
 
+.link-me{
+    text-decoration: none;
+   background-image: linear-gradient(red,orange);
+   color: whitesmoke;
+    padding: 10px 20px;
+border-radius: 5px;
+font-weight: bolder
 }
